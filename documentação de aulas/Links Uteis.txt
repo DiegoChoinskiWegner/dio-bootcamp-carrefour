@@ -1,3 +1,8 @@
 Documentação do Java - https://dev.java/learn/
 Documentação Bootstrap - https://getbootstrap.com/docs/5.1/getting-started/introduction/
- 
+jQuery - https://api.jquery.com/
+Bulma - https://bulma.io/documentation/
+UiKit - https://getuikit.com/docs/introduction
+React - https://pt-br.reactjs.org/
+Varias Bibliotecas - https://openjsf.org/ 
+Mozilla Dev Network - https://developer.mozilla.org/en-US/
