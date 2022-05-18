@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleProvider } from '@material-ui/styles'
 import { CssBaseline } from '@material-ui/core' 
 import globalStyle from './commons/styles/global-style';
-
+import Main from './containers/Main'
 
 
 function App() {
@@ -10,10 +10,7 @@ function App() {
     <StyleProvider injectFirst>   
       <CssBaseline />
       <globalStyle />
-      <div>
-        teste
-      </div>
-    </StyleProvider>
+      <main />>der>
   );
 }
 
