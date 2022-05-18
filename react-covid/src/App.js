@@ -13,7 +13,7 @@ function App() {
       <div>
         teste
       </div>
-    </StylesProvider>
+    </StyleProvider>
   );
 }
 
