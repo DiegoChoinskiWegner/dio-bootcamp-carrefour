@@ -14,16 +14,16 @@ function Boars({ data }) {
                 <Card value={getByDisplayValue(cases)} label="Total de Casos" color="#5d78ff" />
             </Grid>
             <Grid itemxs={12} md={3}>
-                <Card value={getByDisplayValue(cases)} label="Óbitos hoje" color="#5d78ff" />
+                <Card value={getByDisplayValue(todayDeaths)} label="Óbitos hoje" color="#F7b829" />
             </Grid>
             <Grid itemxs={12} md={3}>
-                <Card value={getByDisplayValue(cases)} label="Casos hoje" color="#5d78ff" />
+                <Card value={getByDisplayValue(todayCases)} label="Casos hoje" color="#000" />
             </Grid>
             <Grid itemxs={12} md={3}>
-                <Card value={getByDisplayValue(cases)} label="Total de Mortos" color="#5d78ff" />
+                <Card value={getByDisplayValue(deaths)} label="Total de Mortos" color="#E95078" />
             </Grid>
             <Grid itemxs={12} md={3}>
-                <Card value={getByDisplayValue(cases)} label="Total de recuperados" color="#5d78ff" />
+                <Card value={getByDisplayValue(recovered)} label="Total de recuperados" color="#67C887" />
             </Grid>
         </Grid>
     )
